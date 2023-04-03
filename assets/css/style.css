@@ -102,7 +102,10 @@ section {
 }
 
 section h3 {
-    color: #32323260;
+    padding-top: 10vh;
+    color: #32323211;
+    font-size: 4rem;
+
 }
 
 section div {
