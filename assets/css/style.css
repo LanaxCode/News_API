@@ -74,7 +74,7 @@ input[type="text"]:focus {
 }
 
 form label {
-    margin-left: 20vw;
+    /* margin-left: 20vw; */
     margin-right: 10px;
 }
 
